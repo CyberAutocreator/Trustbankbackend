@@ -1,0 +1,10 @@
+trustbank-backend/
+├── server.js
+├── routes/
+│   ├── auth.js
+│   ├── dashboard.js
+│   ├── transfer.js
+│   └── transactions.js
+├── middleware/
+│   └── authMiddleware.js
+├── package.json
